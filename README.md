@@ -11,7 +11,7 @@ make sure that it is installed under or at the same level as less。
 安装方法：ctrl+shift+p>install Package>输入less2css按Enter
 
 
-### 安装lessc
+### 安装lessc（千万别安装）
 
 有了npm，安装lessc也是一行就可以了：
 
