@@ -9,3 +9,15 @@ make sure that it is installed under or at the same level as less。
 ### 安装Sublime 插件 
 
 安装方法：ctrl+shift+p>install Package>输入less2css按Enter
+
+
+### 安装lessc
+
+有了npm，安装lessc也是一行就可以了：
+
+npm install less -gd
+
+安装完成之后，在Terminal中输入命令lessc试试，如果出现如下提示则表示安装成功：
+
+lessc: no input files
+PS: 这时可以在Sublime Text 2中打开或者新建一个less文件，按下Ctrl+S保存，此时应该会在less文件的相同目录下生成同名的css文件。
