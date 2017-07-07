@@ -24,5 +24,5 @@ make sure that it is installed under or at the same level as less。
 PS: 这时可以在Sublime Text 2中打开或者新建一个less文件，按下Ctrl+S保存，此时应该会在less文件的相同目录下生成同名的css文件。
 
 参考链接：
-http://www.cnblogs.com/alantao/p/6490863.html
-https://fdream.net/blog/article/783.aspx
+- http://www.cnblogs.com/alantao/p/6490863.html
+- https://fdream.net/blog/article/783.aspx
