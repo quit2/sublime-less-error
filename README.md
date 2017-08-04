@@ -8,8 +8,11 @@ make sure that it is installed under or at the same level as less。
 
 ### 安装Sublime 插件 
 
+Less2Css作用是Sublime Text3保存时自动在同目录下生成css文件（个人不喜欢）
+
 安装方法：ctrl+shift+p>install Package>输入less2css按Enter
 
+删除：ctrl+shift+p>Remove Package>选择Less2Css即可。
 
 ### 安装lessc
 
@@ -21,7 +24,7 @@ make sure that it is installed under or at the same level as less。
 
 > lessc: no input files
 
-PS: 这时可以在Sublime Text 2中打开或者新建一个less文件，按下Ctrl+S保存，此时应该会在less文件的相同目录下生成同名的css文件。
+PS: 这时可以在Sublime Text 3中打开或者新建一个less文件，按下Ctrl+S保存，此时应该会在less文件的相同目录下生成同名的css文件。
 
 参考链接：
 - http://www.cnblogs.com/alantao/p/6490863.html
